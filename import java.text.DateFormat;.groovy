@@ -374,8 +374,8 @@ import java.util.*;
 				db3 = 50;
 				dr3 = 40;
 		   }
-			//atribuindo o valor na variavel.
-			lake = dl1+dl2+dl3;
+		    //atribuindo o valor na variavel.
+		    lake = dl1+dl2+dl3;
 		    brid = db1+db2+db3;
 		    rid = dr1+dr2+dr3;
 		    //coments: retornar o menor caso teja um.
